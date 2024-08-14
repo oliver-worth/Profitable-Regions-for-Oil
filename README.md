@@ -1,4 +1,5 @@
 # Predicting Profitable Regions for Oil Well Development
+![Oil Well Diagram](oilwell.png)
 ## Project Overview
 You are working for OilyGiant, a mining company tasked with finding the best location for a new oil well. The project involves analyzing geological data from three regions to predict the volume of oil reserves in new wells, identify the most promising wells, and ultimately select the region with the highest potential profit margin. The analysis includes a comprehensive risk assessment using the Bootstrapping technique.
 
